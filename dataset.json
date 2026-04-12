@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Metro-level restaurant census for the Greater Seattle area including Tacoma and Bellevue. Captures the Pacific Northwest's dynamic dining scene, filtered by the Restaurants category group. Features business profiles, review analytics, competitive positioning, and contact data. Refreshed weekly.",
+  "config_name": "All Restaurants in Greater Seattle Area (Metro), Washington, US",
+  "export_job_id": "ebb200fc-218f-4096-a72b-9ee7405b437d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 201465,
+  "location_name": "Seattle-Tacoma-Bellevue, WA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-greater-seattle-area-metro-washington-us-sample-201465",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/201465/beamstation_201465_restaurants-us-seattletacomabellevuewa_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 855,
+  "sample_sha256": "0abe3b51882006a17b7e5f528035e36e95c591d96f59ec3b53b217ce5f395db6",
+  "sample_size_bytes": 2992382,
+  "total_records": 8556,
+  "updated_at": "2026-04-09T12:22:43.619104+00:00"
+}
