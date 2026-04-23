@@ -1,12 +1,12 @@
 {
-  "export_job_id": "be0f7f59-b36b-4ba7-a10c-80517f58de6e",
+  "export_job_id": "845ab02f-9f88-417d-b9a8-2bcb216854bc",
   "id_short": 201465,
-  "published_at": "2026-04-19T19:28:26Z",
+  "published_at": "2026-04-23T19:02:34Z",
   "repo_name": "all-restaurants-in-greater-seattle-area-metro-washington-us-sample-201465",
   "sample_asset_name": "beamstation_201465_restaurants-us-seattletacomabellevuewa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/201465/beamstation_201465_restaurants-us-seattletacomabellevuewa_SAMPLE_DIST.csv",
-  "sample_records": 833,
-  "sample_sha256": "476994a7ac72d66a29a82c7c1ff43b9777ba9e80197fc629017a74cd8194d13a",
-  "sample_size_bytes": 2954533,
-  "total_records": 8332
+  "sample_records": 584,
+  "sample_sha256": "d668a4dae54c8c3302a4d02338a044ca87098a4ba9abc21b4209a205353d3cc7",
+  "sample_size_bytes": 2062909,
+  "total_records": 5843
 }
