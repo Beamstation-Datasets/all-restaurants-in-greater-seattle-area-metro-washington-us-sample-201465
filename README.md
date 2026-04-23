@@ -1,6 +1,6 @@
 # All Restaurants in Greater Seattle Area (Metro), Washington, US
 
-> Free BeamStation sample export with 833 rows and masked direct-contact fields.
+> Free BeamStation sample export with 584 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `201465` |
 | Location | Seattle-Tacoma-Bellevue, WA |
 | Category | Restaurants |
-| Full dataset size | 8,332 records |
-| Free sample size | 833 records (10.0%) |
-| Last export | 2026-04-16T12:30:14.867034+00:00 |
+| Full dataset size | 5,843 records |
+| Free sample size | 584 records (9.99%) |
+| Last export | 2026-04-23T11:51:12.439932+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greater-seattle-area-metro-washington-us-sample-201465/releases/download/sample-latest/beamstation_201465_restaurants-us-seattletacomabellevuewa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
