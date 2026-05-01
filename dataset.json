@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Metro-level restaurant census for the Greater Seattle area including Tacoma and Bellevue. Captures the Pacific Northwest's dynamic dining scene, filtered by the Restaurants category group. Features business profiles, review analytics, competitive positioning, and contact data. Refreshed weekly.",
   "config_name": "All Restaurants in Greater Seattle Area (Metro), Washington, US",
-  "export_job_id": "845ab02f-9f88-417d-b9a8-2bcb216854bc",
+  "export_job_id": "f8f589e6-30e5-49e0-a27e-b9a86ed5bd0e",
   "github_org": "Beamstation-Datasets",
   "id_short": 201465,
   "location_name": "Seattle-Tacoma-Bellevue, WA",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-greater-seattle-area-metro-washington-us-sample-201465",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/201465/beamstation_201465_restaurants-us-seattletacomabellevuewa_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 584,
-  "sample_sha256": "d668a4dae54c8c3302a4d02338a044ca87098a4ba9abc21b4209a205353d3cc7",
-  "sample_size_bytes": 2062909,
-  "total_records": 5843,
-  "updated_at": "2026-04-23T11:51:12.439932+00:00"
+  "sample_records": 925,
+  "sample_sha256": "a43f90f0fef77526039402f4035ddd081cedbf7310090919ff74c5277c1bc048",
+  "sample_size_bytes": 3077332,
+  "total_records": 9259,
+  "updated_at": "2026-04-30T22:02:20.814560+00:00"
 }
